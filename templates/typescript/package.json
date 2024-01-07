@@ -1,0 +1,20 @@
+{
+  "name": "{{name}}",
+  "author": "{{contact}}",
+  "license": "{{license}}",
+  "scripts": {
+    "build": "tsc",
+    "build:watch": "tsc -w",
+    "lint": "eslint . && prettier --check ."
+  },
+  "prettier": "@vercel/style-guide/prettier",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^6.17.0",
+    "@typescript-eslint/parser": "^6.17.0",
+    "@vercel/style-guide": "^5.1.0",
+    "eslint": "^8.56.0",
+    "prettier": "^3.1.1",
+    "typescript": "^5.3.3"
+  },
+  "packageManager": "yarn@4.0.2"
+}
