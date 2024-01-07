@@ -1,7 +1,7 @@
 {
   "name": "@0x08/create-node-app",
   "description": "Initializer for Node apps",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "author": "B4CKSP4CE Team & Contributors <info@0x08.in>",
   "bin": "src/cli.js",
   "files": [
