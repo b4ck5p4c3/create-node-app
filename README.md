@@ -4,7 +4,7 @@ Starter for B4CKSP4CE Node apps.
 
 ## Templates
 
-- **TypeScript** – use `npx @b4ck5p4c3/create-node-app`
+- **TypeScript** – use `npx @0x08/create-node-app my-shiny-app`
 - **Next.js** – use `create-next-app`
 
 ## Code Style
